@@ -36,4 +36,5 @@ Bone fractures are among the most common injuries treated in medical settings. E
 ## Paper
 
 You can read the full paper here:  
-**[Bone Fracture Detection Using Convolutional Neural Network (CNN) K-Fold Validation Method](./Bone%20Fracture%20Detection%20Using%20Convulutional%20Neural%20Network%20(CNN)%20K-Fold%20Validation%20Method.pdf)**
+[Bone Fracture Detection Using Convulutional Neural Network (CNN) K-Fold Validation Method.pdf](https://github.com/user-attachments/files/20220239/Bone.Fracture.Detection.Using.Convulutional.Neural.Network.CNN.K-Fold.Validation.Method.pdf)
+
